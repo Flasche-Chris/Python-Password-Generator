@@ -17,3 +17,8 @@ by typing `python3 ./PPG.py`.
 - macOS users may need to download and install Python 3, head over to https://www.python.org 
 for downloading and installing Python.
 
+## Features
+
+- Any length can be set
+- Free choice of the characters (numbers, letters, symbols)
+- Choose how many passwords are needed
